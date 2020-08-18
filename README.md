@@ -17,8 +17,7 @@ Objetivos do projeto:
 - Aplicar a biblioteca axios para bater em endpoints;
 - Componentização React. 
 
-Para acessar basta cadastrar um usuário e logar no app. Peço desculpas pela possível demora de resposta do banco de dados e os erros que esta venha 
-a causar. 🐌
+Para acessar basta cadastrar um usuário e logar no app. Peço desculpas pela possível demora de resposta do banco de dados. 🐌
 
 &copy;Código livre para uso pessoal. Para instalar basta copiar o link do repositório, fazer um clone local e instalar as dependências. 🎁
 
